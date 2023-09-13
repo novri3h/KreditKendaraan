@@ -1,4 +1,4 @@
-# VB-KreditKendaraan
+# Aplikasi Kredit Kendaraan
 ![Kredit Kendaraan Bermotor VB](https://github.com/novri3h/VB-KreditKendaraan/assets/25641359/43314a54-3a3f-4707-b685-ad40b3b19454)
 
 <div align="justify">Aplikasi kredit kendaraan bermotor adalah aplikasi yang digunakan oleh individu atau perusahaan untuk mengajukan pinjaman atau kredit guna membeli kendaraan bermotor seperti mobil atau sepeda motor. Aplikasi semacam ini dapat digunakan untuk mengajukan permohonan kredit, mengunggah dokumen yang diperlukan, melacak status pengajuan, dan berkomunikasi dengan lembaga keuangan atau pemberi pinjaman.</div>
