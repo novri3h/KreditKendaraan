@@ -27,8 +27,10 @@ Aplikasi ini dibangun dengan menggunakan:
 
 - [Visual Studio]<div align="justify">Visual Studio adalah lingkungan pengembangan terintegrasi (IDE) yang digunakan untuk mengembangkan 
   aplikasi Visual Basic. Versi terbaru dari Visual Studio akan memiliki dukungan untuk berbagai bahasa pemrograman, termasuk Visual Basic.</div>
-- [Visual Basic .NET (VB.NET)]<div align="justify">Bahasa pemrograman yang digunakan untuk mengembangkan aplikasi Visual 
-  Basic. Anda dapat menulis kode VB.NET di Visual Studio.</div>
+- [Visual Basic 6.0]<div align="justify">Bahasa pemrograman yang digunakan untuk mengembangkan aplikasi Visual Basic.</div>
+- [Crystal Reports]<div align="justify">Crystal Reports adalah perangkat lunak yang digunakan untuk merancang, mengembangkan, dan menghasilkan laporan bisnis yang 
+  berisi informasi yang diambil dari berbagai sumber data. Perangkat lunak ini dikembangkan oleh perusahaan yang sekarang dikenal sebagai SAP SE dan telah menjadi 
+  salah satu alat yang populer di kalangan profesional bisnis dan pengembang perangkat lunak untuk membuat laporan yang informatif dan terstruktur.</div>
 - [.NET Framework]<div align="justify">.NET Framework adalah kerangka kerja yang digunakan untuk mengembangkan aplikasi 
   Windows dengan Visual Basic. Ini menyediakan perpustakaan kelas dan alat yang diperlukan untuk membangun aplikasi Windows.</div>
 - [Windows Forms]<div align="justify">Windows Forms adalah teknologi yang digunakan untuk membangun antarmuka pengguna (UI) dalam aplikasi Windows dengan menggunakan 
