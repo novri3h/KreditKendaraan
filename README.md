@@ -4,7 +4,7 @@
 <div align="justify">Aplikasi kredit kendaraan bermotor adalah aplikasi yang digunakan oleh individu atau perusahaan untuk mengajukan pinjaman atau kredit guna membeli kendaraan bermotor seperti mobil atau sepeda motor. Aplikasi semacam ini dapat digunakan untuk mengajukan permohonan kredit, mengunggah dokumen yang diperlukan, melacak status pengajuan, dan berkomunikasi dengan lembaga keuangan atau pemberi pinjaman.</div>
 <br>
 
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif.studio)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/VB-KreditKendaraan/graphs/commit-activity)
 
